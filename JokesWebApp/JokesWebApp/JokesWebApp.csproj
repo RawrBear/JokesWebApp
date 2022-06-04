@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-JokesWebApp-49CD56C5-03D9-4FB0-9118-B32527006739</UserSecretsId>
+    <UserSecretsId>aspnet-JokesWebApp-03E95139-07A6-4515-974C-562EB8EE66C8</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
